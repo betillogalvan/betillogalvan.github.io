@@ -8,7 +8,7 @@ Hello my names is Alberto Galvan A.K.A(BetilloGalvan/B2G),
 
 ### Experience
 
-Cyber Security And Dev in <a href="https://www.jelp.io/">Jelp</a>
+Cyber Security And Developer in <a href="https://www.jelp.io/">Jelp</a>
 
 ### Contact me
 
@@ -28,3 +28,14 @@ Cyber Security And Dev in <a href="https://www.jelp.io/">Jelp</a>
 </ul>
 
 ### Toolkit
+<ul>
+  <li>Python</li>
+  <li>Bash</li>
+  <li>JS</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>C#</li>
+  <li>Java</li>
+  <li>Php</li>
+  <li>Mysql</li>
+</ul>

@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hello my names is Alberto Galvan A.K.A(BetilloGalvan/B2G), this is my blog <a href="http://www.betillogalvan.space/>Blog</a>.
+Hello my names is Alberto Galvan A.K.A(BetilloGalvan/B2G), this is my blog <a href="http://www.betillogalvan.space">Blog</a>.
 
 ### Experience
 

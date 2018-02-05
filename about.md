@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello my names is Alberto Galvan A.K.A(BetilloGalvan/B2G), 
 
 ### More Information
 
@@ -26,3 +26,5 @@ A place to include any other types of information that you'd like to include abo
   <li>Certificate in How to Monitor & Intercept Transmitted Data Online <a href="https://drive.google.com/file/d/1huGTqaCN_ZFGCm1MiBbB4I6HhEu3Onru">by Udemy</a></li>
  <li>Certificate in How to Create A Website Using Wordpress <a href="https://drive.google.com/file/d/1F7SQ_zlfRJrD219CiaFTsG5kCl_hXzf3">by Udemy</a></li>
 </ul>
+
+### Toolkit

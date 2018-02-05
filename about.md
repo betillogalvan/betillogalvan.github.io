@@ -12,7 +12,7 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[betillogalvan@protonmail.com](mailto:betillogalvan@protonmail.com)
+[betillogalvan@protonmail.com]
 
 ### Stuff About Me
 

@@ -18,7 +18,7 @@ A place to include any other types of information that you'd like to include abo
 
 <ul>
 <li>Certificate in Learn Commands Of Linux <a href="https://drive.google.com/file/d/1OHfIwD_Q4Xv39z_bWTT2H48L4jIhUMBW">by Udemy</a></li>
-  <li>Certificate in Learn Burp Suite <a href="https://drive.google.com/file/d/1LhAuHeLbCRem2wGdOVMLZAqfQ_-nX_4k"by Udemy</a></li>
+  <li>Certificate in Learn Burp Suite <a href="https://drive.google.com/file/d/1LhAuHeLbCRem2wGdOVMLZAqfQ_-nX_4k">by Udemy</a></li>
   <li>Certificate in CCNA Security <a href="https://drive.google.com/file/d/1UHQ4sRXwdKxGmImb6ObcLOKSe0TD_oWK">by Udemy</a></li>
   <li>Certificate in Cyber Security Law <a href="https://drive.google.com/file/d/1ceccasodQ8XFgtWt9x6rK0R8brpbwZgB">by Udemy</a></li>
   <li>Certificate in Malware Development <a href="https://drive.google.com/file/d/1lM-ren4jch5u4y_Pu0nxTIVqVV7JFexr>by Udemy</a></li>

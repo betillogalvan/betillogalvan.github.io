@@ -6,9 +6,9 @@ permalink: /about/
 
 Hello my names is Alberto Galvan A.K.A(BetilloGalvan/B2G), 
 
-### More Information
+### Experience
 
-A place to include any other types of information that you'd like to include about yourself.
+Cyber Security And Dev in <a href="https://www.jelp.io/">Jelp</a>
 
 ### Contact me
 
